@@ -5,11 +5,30 @@
       
  # Features of Machine Learning
      * Automated machine learning
-     * Machine learning designer
+     * Machine learning designer - This feature offers a graphical interface enabling no-code development of machine learning solutions.
      * Data and compute management
-     * Pipelines
+     * Pipelines - allow Data scientists, software engineers, and IT operations professionals to define pipelines to orchestrate model training, deployment, and management tasks.
      
   Case Study: Yield and AI technology 
   https://www.coursera.org/learn/artificial-intelligence-microsoft-azure/ungradedWidget/kgt51/yield-and-ai-technology
   
   
+i) Anomaly Detection
+ii) Computer Vision eg Seeing AI
+    * Image classification
+    * Object detection
+    * Image analysis
+    * Face detection
+    * OCR (Optical Character Recognition) - read character in image
+    * Form recognizer - can be used to extract information from structured documents, such as scanned forms and invoices.
+iii) Natural Language Processing
+    * Text analytics - analyze text documents and extract key phrases, detect entities such as places, dates, and people, 
+                       and evaluate sentiment to determine how positive or negative a document is.
+    * Text translate
+    * Voice command recognition
+    
+    Case study: NLP -Starship Commander https://www.coursera.org/learn/artificial-intelligence-microsoft-azure/ungradedWidget/vYcTq/nlp-starship-commander
+                A Microsoft Azure Cognitive service, Language Understanding (LUIS)is a machine learning-based service used to build natural language into apps, bots, and IoT devices. 
+    
+
+****** Conversional AI using Azure oot service + LUIS (Language Understanding) + QnA maker
