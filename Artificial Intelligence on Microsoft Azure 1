@@ -21,7 +21,8 @@ ii) Computer Vision eg Seeing AI
     * Face detection
     * OCR (Optical Character Recognition) - read character in image
     * Form recognizer - can be used to extract information from structured documents, such as scanned forms and invoices.
-iii) Natural Language Processing
+    
+iii) Natural Language Processing -  capability to interpret commands and determine appropriate actions 
     * Text analytics - analyze text documents and extract key phrases, detect entities such as places, dates, and people, 
                        and evaluate sentiment to determine how positive or negative a document is.
     * Text translate
@@ -31,4 +32,5 @@ iii) Natural Language Processing
                 A Microsoft Azure Cognitive service, Language Understanding (LUIS)is a machine learning-based service used to build natural language into apps, bots, and IoT devices. 
     
 
-****** Conversional AI using Azure oot service + LUIS (Language Understanding) + QnA maker
+iv) Conversional AI using Azure oot service + LUIS (Language Understanding) + QnA maker
+        * QnA - build a knowledge base of questions and answers that can form the basis of a dialog between an AI agent and a human
