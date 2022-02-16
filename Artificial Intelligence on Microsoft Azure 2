@@ -1,8 +1,12 @@
                                     ************ Guiding Principles for Responsible AI ************************
 
-# Fairness 
+# Fairness
+   * A model should make predictions without incorporating any bias based on gender, ethnicity, 
+     or other factors that might result in an unfair advantage or disadvantage to specific analyzed groups.
+   
 # Reliability and safety 
 # Privacy and security 
 # Inclusiveness
+  
 # Transparency
 # Accountability.
