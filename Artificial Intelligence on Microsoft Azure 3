@@ -1,0 +1,34 @@
+Machine learning is a technique that uses Mathematics and Statistics to create a model that can predict unknown values
+
+Supervised - use historic data to predict models
+
+    # Regression
+     Features as x and labels as y ie f(x) = y
+
+    # Classification
+    Use categories to predict classes
+    
+  
+  Unsupervised learning eg clusters
+  
+  
+  **Process**
+   Data ingestion
+   Data cleaning
+   Feature engineering
+   
+   
+ # Using Azure Machine Learning
+ After you have created an Azure Machine Learning workspace, you can use it to manage the various assets and resources you need to create machine learning solutions. 
+ At its core, Azure Machine Learning is a platform for training and managing machine learning models, for which you need compute on which to run the training process. 
+ -Create compute targets 
+      *Compute targets are cloud-based resources on which you can run model training and data exploration processes. This is where you manage the compute targets for your data science activities. 
+      There are four kinds of compute resource you can create: 
+            Compute Instances: Development workstations that data scientists can use to work with data and models. 
+
+           Compute Clusters: Scalable clusters of virtual machines for on-demand processing of experiment code. 
+
+           Inference Clusters: Deployment targets for predictive services that use your trained models. 
+
+           Attached Compute: Links to existing Azure compute resources, such as Virtual Machines or Azure Databricks clusters.
+             
