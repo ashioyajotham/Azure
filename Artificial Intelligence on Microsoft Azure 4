@@ -10,3 +10,5 @@ The automated machine learning capability in Azure Machine Learning supports s
           * Time series forecasting (regression with a time-series element, enabling you to predict numeric values at a future point in time) 
           
  (https://www.coursera.org/learn/microsoft-azure-machine-learning/supplement/RAzH0/exercise-part-4-train-a-machine-learning-model)
+ 
+ In a residual histogram, residuals represent variance between predicted and true values that cannot be explained by the model
