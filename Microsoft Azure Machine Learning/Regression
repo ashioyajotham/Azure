@@ -56,6 +56,7 @@ This enables you to compare the labels that the model predicts with the actual k
       This will form the basis for a predictive service that you can publish for applications to use. 
       
     ## Deploy a Predictive Model
+    //Inference Clusters are used as deployment targets for predictive services that use your trained models. 
     //After you've created and tested an inference pipeline for real-time inferencing, you can publish it as a service for client applications to use.
     //You'll deploy the web service to a Microsoft Azure Container Instance (ACI). This type of compute is created dynamically, and is useful for development and testing. 
       For production, you should create an inference cluster, which provide an Azure Kubernetes Service (AKS) cluster that provides better scalability and security. 
@@ -63,3 +64,7 @@ This enables you to compare the labels that the model predicts with the actual k
      ## Test the service
      
  
+You are creating a training pipeline for a regression model and your dataset contains hundreds of columns. 
+For a particular part of your model, you want to use data only from some specific columns. Which module should you add to the pipeline? Select columns in a dataset
+
+
