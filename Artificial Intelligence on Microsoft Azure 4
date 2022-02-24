@@ -12,3 +12,5 @@ The automated machine learning capability in Azure Machine Learning supports s
  (https://www.coursera.org/learn/microsoft-azure-machine-learning/supplement/RAzH0/exercise-part-4-train-a-machine-learning-model)
  
  In a residual histogram, residuals represent variance between predicted and true values that cannot be explained by the model
+
+What setting should you configure if you want to end the experiment if the model achieves a certain score or less on normalized root mean squared error metric? Metric score threshold
