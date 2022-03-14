@@ -1,0 +1,8 @@
+// To train and deploy models using Azure Machine Learning designer, you need compute targets to run the training process. 
+    You will also use these compute targets to test the trained model after its deployment.
+
+// Compute targets are cloud-based resources on which you can run model training and data exploration processes.
+   * Compute Instances: Development workstations that data scientists can use to work with data and models.
+   * Compute Clusters: Scalable clusters of virtual machines for on-demand processing of experiment code.
+   * Inference Clusters: Deployment targets for predictive services that use your trained models.
+  * Attached Compute: Links to existing Azure compute resources, such as Virtual Machines or Azure Databricks clusters.
