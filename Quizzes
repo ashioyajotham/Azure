@@ -1,0 +1,4 @@
+ You must create a compute target for training experiments that require a graphical processing unit (GPU). 
+ You want to be able to scale the compute so that multiple nodes are started automatically as required. Which kind of compute target should you create?
+
+                 Use a compute cluster to create multiple nodes of GPU-enabled VMs that are started automatically as needed.
