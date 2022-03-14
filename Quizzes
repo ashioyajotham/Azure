@@ -2,3 +2,14 @@
  You want to be able to scale the compute so that multiple nodes are started automatically as required. Which kind of compute target should you create?
 
                  Use a compute cluster to create multiple nodes of GPU-enabled VMs that are started automatically as needed.
+                 
+
+Which metric presents the ratio of correct predictions (true positives + true negatives) to the total number of predictions? Precision
+
+
+You use an Azure Machine Learning designer pipeline to train and test a binary classification model. You review the model's performance metrics in an Evaluate Model module, and note that it has an AUC score of 0.6. What can you conclude about the model?
+
+        The model performs better than random guessing
+        
+        
+  Accuracy - 
