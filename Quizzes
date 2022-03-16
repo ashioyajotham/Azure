@@ -22,3 +22,6 @@ You create a machine learning experiment based on a clustering model. Now you wa
 
 Suppose you are testing a K-Means clustering model. If you would want your model to assign items to one of four clusters, which parameter/property should you configure on the module?
       Set number of centroids to 4
+
+
+(https://www.coursera.org/learn/computer-vision-microsoft-azure/quiz/JYL09/knowledge-check/attempt?redirectToCover=true)
