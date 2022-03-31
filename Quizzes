@@ -26,3 +26,7 @@ Suppose you are testing a K-Means clustering model. If you would want your model
 
 (https://www.coursera.org/learn/computer-vision-microsoft-azure/quiz/JYL09/knowledge-check/attempt?redirectToCover=true)
 (https://www.coursera.org/learn/computer-vision-microsoft-azure/quiz/ztq2l/knowledge-check/attempt?redirectToCover=true)
+
+What are two correct guidelines to get the best results when using a custom model for Form Recognizer service?
+  Images must be JPEG, PNG, BMP, PDF, or TIFF formats
+ For PDF documents, no larger than 17 inches x 17 inches
