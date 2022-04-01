@@ -33,4 +33,12 @@ What are two correct guidelines to get the best results when using a custom mode
 
 Azure Form Recognizer - extract text, key/value pairs, and table data automatically from scanned documents.
 
+When using Azure Machine Learning designer to publish an inference pipeline, which two parameters should you use to consume the pipeline?
+                   // REST Endpoint
+                  // Authentification key
+                  
+Automated machine learning does not enable you to specify a dataset and will automatically understand which label to predict.
+
 Semantic Segmentation is an advanced machine learning technique in which individual pixels in the image are classified according to the object to which they belong.
+
+The READ API works async while OCR works sync
